@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Diego Camacho"]
   spec.email         = ["hackvan@gmail.com"]
 
-  spec.summary       = %q{Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{Write a longer description or delete this line.}
+  spec.summary       = %q{A small utilities to make the food very fun.}
+  spec.description   = %q{A small utilities to make the food very fun.}
   spec.homepage      = "http://localhost"
   spec.license       = "MIT"
 
