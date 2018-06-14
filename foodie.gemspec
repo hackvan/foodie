@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A small utilities to make the food very fun.}
   spec.description   = %q{A small utilities to make the food very fun.}
-  spec.homepage      = "https://github.com/hackvan/foodie"
+  spec.homepage      = "http://mygemserver.com"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
